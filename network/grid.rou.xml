@@ -1,0 +1,6 @@
+<routes>
+    <vType id="car" accel="1.0" decel="1.5" sigma="0.5" length="5" maxSpeed="13.9"/>
+    <!-- Generate 10 random routes -->
+    <flow id="flow0" type="car" begin="0" end="3600" number="50" from="1" to="9"/>
+    <flow id="flow1" type="car" begin="0" end="3600" number="50" from="2" to="8"/>
+</routes>
